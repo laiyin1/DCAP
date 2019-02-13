@@ -13,7 +13,7 @@ import java.util.*;
 import java.util.concurrent.*;
 
 /**
- * YANG YI
+ * YANG
  * 2018.09.19
  */
 public class SupportCalculation {
